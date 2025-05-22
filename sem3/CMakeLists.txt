@@ -3,4 +3,4 @@ project(OOPSem2)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(OOPSem2 sem2.cpp)
+add_executable(sem3 sem3.cpp)
